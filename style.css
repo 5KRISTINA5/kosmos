@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+   background-color: pink;
+   padding: 15px;
+   margin-bottom: 40px; 
+}
+
+header p {
+    font-size: 40px;
+}
+
+header b {
+    margin-left: 40px;
+}
+
+i {
+    float: right;
+}
+
+.kontent1 {
+    background-color: pink;
+    padding: 40px;
+}
+
+.kontent2 img {
+    height: 200px;
+    margin-right: 50px;
+}
+.kontent2 {
+    text-align: center;
+}
+
+.first {
+    border-radius: 50%;
+}
+
+.second {
+    border-radius: 50px;
+}
+
+footer {
+    background-color: pink;
+}
+
+footer b {
+    margin-left: 100px;
+}
+
+
